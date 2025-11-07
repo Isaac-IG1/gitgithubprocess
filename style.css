@@ -7,3 +7,8 @@ h1 {
 h2 {
   background-color: pink;
 }
+ul {
+  padding: 1rem;
+  background-color: lightpink;
+  border: 2px solid white;
+}
